@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 8501ba78aa96629449b9d58e55615a56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -251180247001723791
+    second: TORRESPACKS2_0
+  - first:
+      213: 1200134198918039432
+    second: TORRESPACKS2_1
+  - first:
+      213: 1048921403505836567
+    second: TORRESPACKS2_2
+  - first:
+      213: -3804731716856088018
+    second: TORRESPACKS2_3
+  - first:
+      213: -930552844801210671
+    second: TORRESPACKS2_4
+  - first:
+      213: -1895358987146936856
+    second: Tower5
+  - first:
+      213: 8677546268865312180
+    second: TORRESPACKS2_6
+  - first:
+      213: -5806478098913698755
+    second: TORRESPACKS2_7
+  - first:
+      213: 6358492736010342178
+    second: TORRESPACKS2_8
+  - first:
+      213: 1487136003474870783
+    second: TORRESPACKS2_9
+  - first:
+      213: 231165535763678782
+    second: TORRESPACKS2_10
+  - first:
+      213: -3937270085822821474
+    second: TORRESPACKS2_11
+  - first:
+      213: 7737179840731150483
+    second: TORRESPACKS2_12
+  - first:
+      213: -7713357430753747913
+    second: TORRESPACKS2_13
+  - first:
+      213: -8250896008114249440
+    second: TORRESPACKS2_14
+  - first:
+      213: -5190107143093437453
+    second: TORRESPACKS2_15
+  - first:
+      213: 162721980727344702
+    second: TORRESPACKS2_16
+  - first:
+      213: -8125814589981486015
+    second: TORRESPACKS2_17
+  - first:
+      213: -1668542385215136326
+    second: TORRESPACKS2_18
+  - first:
+      213: 1404759216408207763
+    second: TORRESPACKS2_19
+  - first:
+      213: 2871221800496400607
+    second: TORRESPACKS2_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TORRESPACKS2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c0eda65e0a38cf0800000000000000
+      internalID: -251180247001723791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 361
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887ce4102bbb7a010800000000000000
+      internalID: 1200134198918039432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 366
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712054585748e8e00800000000000000
+      internalID: 1048921403505836567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 99
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a712f69a0e23bc0800000000000000
+      internalID: -3804731716856088018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 340
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d605e03e130613f0800000000000000
+      internalID: -930552844801210671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 264
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed33411b0552b5e0800000000000000
+      internalID: -1895358987146936856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 264
+        width: 89
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5bbbd1b56dc6870800000000000000
+      internalID: 8677546268865312180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd92edeee3b6fa0800000000000000
+      internalID: -5806478098913698755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f4cc46477ed3850800000000000000
+      internalID: 6358492736010342178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 216
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff150d3e05e53a410800000000000000
+      internalID: 1487136003474870783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 138
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36c18b74d3453300800000000000000
+      internalID: 231165535763678782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 208
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b42cda7b10c59c0800000000000000
+      internalID: -3937270085822821474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 137
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398f712621cff5b60800000000000000
+      internalID: 7737179840731150483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 211
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9d4aa846a4f490800000000000000
+      internalID: -7713357430753747913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 138
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02169a5bbcdee7d80800000000000000
+      internalID: -8250896008114249440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb2bd3d0909f7b0800000000000000
+      internalID: -5190107143093437453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb66287ca124200800000000000000
+      internalID: 162721980727344702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144977dceae4b3f80800000000000000
+      internalID: -8125814589981486015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd919c7a8528d8e0800000000000000
+      internalID: -1668542385215136326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 87
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a7f88015be7310800000000000000
+      internalID: 1404759216408207763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRESPACKS2_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd802f1e301a8d720800000000000000
+      internalID: 2871221800496400607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

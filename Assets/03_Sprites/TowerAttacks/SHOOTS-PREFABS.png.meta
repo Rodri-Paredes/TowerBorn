@@ -1,0 +1,2317 @@
+fileFormatVersion: 2
+guid: f88ba122a3d90bb4ca95ee0a95d80ea7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7432602931600055984
+    second: SHOOTS-PREFABS_0
+  - first:
+      213: 5894998597300003031
+    second: SHOOTS-PREFABS_1
+  - first:
+      213: -5869845542324884787
+    second: SHOOTS-PREFABS_2
+  - first:
+      213: -5172706043194845742
+    second: SHOOTS-PREFABS_3
+  - first:
+      213: 6849908793575688723
+    second: SHOOTS-PREFABS_4
+  - first:
+      213: 8591894815212059210
+    second: SHOOTS-PREFABS_5
+  - first:
+      213: 2389728340389511796
+    second: SHOOTS-PREFABS_6
+  - first:
+      213: -4097188093106413167
+    second: SHOOTS-PREFABS_7
+  - first:
+      213: -8363620392341781079
+    second: SHOOTS-PREFABS_8
+  - first:
+      213: 6588558460862849368
+    second: SHOOTS-PREFABS_9
+  - first:
+      213: 2872213043525634979
+    second: SHOOTS-PREFABS_10
+  - first:
+      213: 1579465885224122778
+    second: SHOOTS-PREFABS_11
+  - first:
+      213: -7429442558422568834
+    second: SHOOTS-PREFABS_12
+  - first:
+      213: 1141137833100975965
+    second: SHOOTS-PREFABS_13
+  - first:
+      213: -7082531405525424791
+    second: SHOOTS-PREFABS_14
+  - first:
+      213: -8505612981889345113
+    second: SHOOTS-PREFABS_15
+  - first:
+      213: -2716989951122836893
+    second: SHOOTS-PREFABS_16
+  - first:
+      213: 506540014519026352
+    second: SHOOTS-PREFABS_17
+  - first:
+      213: 6490367636264501098
+    second: SHOOTS-PREFABS_18
+  - first:
+      213: -3325799207528897309
+    second: SHOOTS-PREFABS_19
+  - first:
+      213: 7564375497299316090
+    second: SHOOTS-PREFABS_20
+  - first:
+      213: 7776250098387173919
+    second: SHOOTS-PREFABS_21
+  - first:
+      213: 5665023289909519649
+    second: SHOOTS-PREFABS_22
+  - first:
+      213: 8211290860172725279
+    second: SHOOTS-PREFABS_23
+  - first:
+      213: 6764452344636561868
+    second: SHOOTS-PREFABS_24
+  - first:
+      213: -1340832372815272782
+    second: SHOOTS-PREFABS_25
+  - first:
+      213: -781568386964862062
+    second: SHOOTS-PREFABS_26
+  - first:
+      213: -4680773707747722159
+    second: SHOOTS-PREFABS_27
+  - first:
+      213: -760359089399544425
+    second: SHOOTS-PREFABS_28
+  - first:
+      213: 3586515230569070638
+    second: SHOOTS-PREFABS_29
+  - first:
+      213: 6401937993354676232
+    second: SHOOTS-PREFABS_30
+  - first:
+      213: 3087593859753413428
+    second: SHOOTS-PREFABS_31
+  - first:
+      213: 5864578887744181714
+    second: SHOOTS-PREFABS_32
+  - first:
+      213: 567411982492490172
+    second: SHOOTS-PREFABS_33
+  - first:
+      213: 5353963632689676463
+    second: SHOOTS-PREFABS_34
+  - first:
+      213: 2786653499414674800
+    second: SHOOTS-PREFABS_35
+  - first:
+      213: 1125965352099881901
+    second: SHOOTS-PREFABS_36
+  - first:
+      213: 1197200579523995898
+    second: SHOOTS-PREFABS_37
+  - first:
+      213: -6972750681953843136
+    second: SHOOTS-PREFABS_38
+  - first:
+      213: 2922846790765069490
+    second: SHOOTS-PREFABS_39
+  - first:
+      213: -4663377089232265780
+    second: SHOOTS-PREFABS_40
+  - first:
+      213: -3127738111867359052
+    second: SHOOTS-PREFABS_41
+  - first:
+      213: 4974433745824005466
+    second: SHOOTS-PREFABS_42
+  - first:
+      213: 2615755034966549913
+    second: SHOOTS-PREFABS_43
+  - first:
+      213: 3996133977413972386
+    second: SHOOTS-PREFABS_44
+  - first:
+      213: 6310688585732640641
+    second: SHOOTS-PREFABS_45
+  - first:
+      213: -9036408965938762965
+    second: SHOOTS-PREFABS_46
+  - first:
+      213: 159503356387404309
+    second: SHOOTS-PREFABS_47
+  - first:
+      213: 3400637456764806303
+    second: SHOOTS-PREFABS_48
+  - first:
+      213: 6498963783820362162
+    second: SHOOTS-PREFABS_49
+  - first:
+      213: 7811576875488908290
+    second: SHOOTS-PREFABS_50
+  - first:
+      213: -1072080775202771766
+    second: SHOOTS-PREFABS_51
+  - first:
+      213: -7523894183323134515
+    second: SHOOTS-PREFABS_52
+  - first:
+      213: -4869174720258413994
+    second: SHOOTS-PREFABS_53
+  - first:
+      213: -721028701893599803
+    second: SHOOTS-PREFABS_54
+  - first:
+      213: -723864908235587884
+    second: SHOOTS-PREFABS_55
+  - first:
+      213: -5794301718396883853
+    second: SHOOTS-PREFABS_56
+  - first:
+      213: 5766669794842306623
+    second: SHOOTS-PREFABS_57
+  - first:
+      213: 7085198438373382842
+    second: SHOOTS-PREFABS_58
+  - first:
+      213: 4313231448285579912
+    second: SHOOTS-PREFABS_59
+  - first:
+      213: -8230394742978564642
+    second: SHOOTS-PREFABS_60
+  - first:
+      213: -746856652652909924
+    second: SHOOTS-PREFABS_61
+  - first:
+      213: 8940131824293975779
+    second: SHOOTS-PREFABS_62
+  - first:
+      213: -2360037638005830024
+    second: SHOOTS-PREFABS_63
+  - first:
+      213: -573943474311886973
+    second: SHOOTS-PREFABS_64
+  - first:
+      213: -4328341265253413505
+    second: SHOOTS-PREFABS_65
+  - first:
+      213: -1333713135164521544
+    second: SHOOTS-PREFABS_66
+  - first:
+      213: -7537987886920711087
+    second: SHOOTS-PREFABS_67
+  - first:
+      213: -41941530872635907
+    second: SHOOTS-PREFABS_68
+  - first:
+      213: 2045183064562095180
+    second: SHOOTS-PREFABS_69
+  - first:
+      213: 4720198606487068792
+    second: SHOOTS-PREFABS_70
+  - first:
+      213: -8374216482097634311
+    second: SHOOTS-PREFABS_71
+  - first:
+      213: -8771532439503334114
+    second: SHOOTS-PREFABS_72
+  - first:
+      213: -2514709929440764487
+    second: SHOOTS-PREFABS_73
+  - first:
+      213: -4426924114270617599
+    second: SHOOTS-PREFABS_74
+  - first:
+      213: 8494680519621625484
+    second: SHOOTS-PREFABS_75
+  - first:
+      213: -3335795675266884227
+    second: SHOOTS-PREFABS_76
+  - first:
+      213: 3880705403372265549
+    second: SHOOTS-PREFABS_77
+  - first:
+      213: 7945270527841619169
+    second: SHOOTS-PREFABS_78
+  - first:
+      213: 5412479692752444102
+    second: SHOOTS-PREFABS_79
+  - first:
+      213: -704567225794748293
+    second: SHOOTS-PREFABS_80
+  - first:
+      213: 4679986750446896201
+    second: SHOOTS-PREFABS_81
+  - first:
+      213: 8381904420004187882
+    second: SHOOTS-PREFABS_82
+  - first:
+      213: 1196418103348539130
+    second: SHOOTS-PREFABS_83
+  - first:
+      213: -4461384378087857800
+    second: SHOOTS-PREFABS_84
+  - first:
+      213: -8138474253545633438
+    second: SHOOTS-PREFABS_85
+  - first:
+      213: 2202104251466968665
+    second: SHOOTS-PREFABS_86
+  - first:
+      213: 7302520031822698787
+    second: SHOOTS-PREFABS_87
+  - first:
+      213: 8671073709364472290
+    second: SHOOTS-PREFABS_88
+  - first:
+      213: -4549329647258160362
+    second: SHOOTS-PREFABS_89
+  - first:
+      213: 1193375965046689759
+    second: SHOOTS-PREFABS_90
+  - first:
+      213: 2840978525823105305
+    second: SHOOTS-PREFABS_91
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5c869cf8e52760800000000000000
+      internalID: 7432602931600055984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02e7fbdfd3fc150800000000000000
+      internalID: 5894998597300003031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 312
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa05b349e1a8ea0800000000000000
+      internalID: -5869845542324884787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 409
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5dad7824bd638b0800000000000000
+      internalID: -5172706043194845742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 401
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a47e061c3cf0f50800000000000000
+      internalID: 6849908793575688723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3c3800da8c3770800000000000000
+      internalID: 8591894815212059210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 401
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c996a3450a2120800000000000000
+      internalID: 2389728340389511796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 316
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ae6c132dd327c0800000000000000
+      internalID: -4097188093106413167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 316
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a54146c0937eeb80800000000000000
+      internalID: -8363620392341781079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 405
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ef9133034f6b50800000000000000
+      internalID: 6588558460862849368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 405
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc692ab862cd720800000000000000
+      internalID: 2872213043525634979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 386
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b1afaad36be510800000000000000
+      internalID: 1579465885224122778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 383
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70bd022b5155e890800000000000000
+      internalID: -7429442558422568834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 322
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1ebd20d226df00800000000000000
+      internalID: 1141137833100975965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 368
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965eb17263bc5bd90800000000000000
+      internalID: -7082531405525424791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 345
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d881ce0ef5f980800000000000000
+      internalID: -8505612981889345113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 345
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627401e8005b4ad0800000000000000
+      internalID: -2716989951122836893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b28ded9577970700800000000000000
+      internalID: 506540014519026352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 318
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fbc3d4afa621a50800000000000000
+      internalID: 6490367636264501098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 319
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e6f8dd3368d1d0800000000000000
+      internalID: -3325799207528897309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc130ef6f0af860800000000000000
+      internalID: 7564375497299316090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 292
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c6fe934acaeb60800000000000000
+      internalID: 7776250098387173919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 221
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1252f57eaa43e9e40800000000000000
+      internalID: 5665023289909519649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 285
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc104388d54f170800000000000000
+      internalID: 8211290860172725279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 250
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9de1e519920ed50800000000000000
+      internalID: 6764452344636561868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 270
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4600b9f08646de0800000000000000
+      internalID: -1340832372815272782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 206
+        width: 33
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc84761bf4725f0800000000000000
+      internalID: -781568386964862062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c75b3dc1d8a0fb0800000000000000
+      internalID: -4680773707747722159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 276
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c99ecf69a275f0800000000000000
+      internalID: -760359089399544425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20099b999cd5c130800000000000000
+      internalID: 3586515230569070638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 277
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8088bff9fa048d850800000000000000
+      internalID: 6401937993354676232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 264
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8745b14659da20800000000000000
+      internalID: 3087593859753413428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d55f313d6b236150800000000000000
+      internalID: 5864578887744181714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d3c9113adfd700800000000000000
+      internalID: 567411982492490172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa004d2be891d4a40800000000000000
+      internalID: 5353963632689676463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 268
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df5b8e79e2ca620800000000000000
+      internalID: 2786653499414674800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 235
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3af49a58b30af00800000000000000
+      internalID: 1125965352099881901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 210
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86b63859f4d9010800000000000000
+      internalID: 1197200579523995898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 256
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04847cea230db3f90800000000000000
+      internalID: -6972750681953843136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b441789ba9009820800000000000000
+      internalID: 2922846790765069490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 246
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd9d96be3b584fb0800000000000000
+      internalID: -4663377089232265780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 229
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f1bb32ca0894d0800000000000000
+      internalID: -3127738111867359052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 226
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3e8ad22db80540800000000000000
+      internalID: 4974433745824005466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 240
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ee9e68570d4420800000000000000
+      internalID: 2615755034966549913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 217
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f0a61eae157730800000000000000
+      internalID: 3996133977413972386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 217
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fc4b055d1149750800000000000000
+      internalID: 6310688585732640641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 232
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba0142ce9389280800000000000000
+      internalID: -9036408965938762965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a24f1257ba63200800000000000000
+      internalID: 159503356387404309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 209
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94aa54efbd713f20800000000000000
+      internalID: 3400637456764806303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1cdbed025f03a50800000000000000
+      internalID: 6498963783820362162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 206
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041c2fd7cb486c60800000000000000
+      internalID: 7811576875488908290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 217
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc638f07343f11f0800000000000000
+      internalID: -1072080775202771766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 216
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc595638a12c59790800000000000000
+      internalID: -7523894183323134515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 209
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6fa1d3673d6cb0800000000000000
+      internalID: -4869174720258413994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd55ce37346ef5f0800000000000000
+      internalID: -721028701893599803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 200
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de3f3f73b054f5f0800000000000000
+      internalID: -723864908235587884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_56
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 213
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca4816941869fa0800000000000000
+      internalID: -5794301718396883853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 205
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38ec8210a3570050800000000000000
+      internalID: 5766669794842306623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 206
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abad562d07ea35260800000000000000
+      internalID: 7085198438373382842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 174
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0b15562dabdb30800000000000000
+      internalID: 4313231448285579912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 175
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd25877693c7cd80800000000000000
+      internalID: -8230394742978564642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6c78d4d1a2a5f0800000000000000
+      internalID: -746856652652909924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61530078ab11c70800000000000000
+      internalID: 8940131824293975779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 176
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4c12b5467f3fd0800000000000000
+      internalID: -2360037638005830024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 173
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878c747371f808f0800000000000000
+      internalID: -573943474311886973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 165
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc7e14d84aee3c0800000000000000
+      internalID: -4328341265253413505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 113
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30f3a48f2bd7de0800000000000000
+      internalID: -1333713135164521544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c4ee64ffa36790800000000000000
+      internalID: -7537987886920711087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 122
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd100f566efa6ff0800000000000000
+      internalID: -41941530872635907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_69
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445edf4923f16c10800000000000000
+      internalID: 2045183064562095180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a4f8bf93818140800000000000000
+      internalID: 4720198606487068792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 121
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f369506a7ec8cb80800000000000000
+      internalID: -8374216482097634311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 158
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15969748b1454680800000000000000
+      internalID: -8771532439503334114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 126
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd198684a4f91dd0800000000000000
+      internalID: -2514709929440764487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1000a4119f76092c0800000000000000
+      internalID: -4426924114270617599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c864a740dea23e570800000000000000
+      internalID: 8494680519621625484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 131
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dde64d18fd4b1d0800000000000000
+      internalID: -3335795675266884227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_77
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4061f5e0090bd530800000000000000
+      internalID: 3880705403372265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec41600375434e60800000000000000
+      internalID: 7945270527841619169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_79
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 110
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5680aa9dfc1b40800000000000000
+      internalID: 5412479692752444102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 108
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b702f1257dfd836f0800000000000000
+      internalID: -704567225794748293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440ce56727a2f040800000000000000
+      internalID: 4679986750446896201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee40a729a1825470800000000000000
+      internalID: 8381904420004187882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 105
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeafe41de78a9010800000000000000
+      internalID: 1196418103348539130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_84
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 107
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a899ab8af512c0800000000000000
+      internalID: -4461384378087857800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_85
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 107
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26900cf29c45e0f80800000000000000
+      internalID: -8138474253545633438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee01346227f8e10800000000000000
+      internalID: 2202104251466968665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 20
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32957fd4743c75560800000000000000
+      internalID: 7302520031822698787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 21
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e5ebe897d55870800000000000000
+      internalID: 8671073709364472290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61336090ac88dd0c0800000000000000
+      internalID: -4549329647258160362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc8101e19bf8010800000000000000
+      internalID: 1193375965046689759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHOOTS-PREFABS_91
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 18
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f236caee2d6720800000000000000
+      internalID: 2840978525823105305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
