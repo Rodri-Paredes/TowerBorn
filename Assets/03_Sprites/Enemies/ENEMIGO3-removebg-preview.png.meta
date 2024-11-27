@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 83ac871f78745e24aa6bb30088aaf075
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2330622620175129266
+    second: ENEMIGO3-removebg-preview_0
+  - first:
+      213: 5874142281693690067
+    second: ENEMIGO3-removebg-preview_1
+  - first:
+      213: -6380780528490148445
+    second: ENEMIGO3-removebg-preview_2
+  - first:
+      213: -2771687226799805015
+    second: ENEMIGO3-removebg-preview_3
+  - first:
+      213: -76886194327997194
+    second: ENEMIGO3-removebg-preview_4
+  - first:
+      213: -4810241006013065175
+    second: ENEMIGO3-removebg-preview_5
+  - first:
+      213: 6096260780442125805
+    second: ENEMIGO3-removebg-preview_6
+  - first:
+      213: 8516218704790493663
+    second: ENEMIGO3-Hurt1
+  - first:
+      213: 345873550417097926
+    second: ENEMIGO3-Hurt2
+  - first:
+      213: 2565025832625026952
+    second: ENEMIGO3-Hurt3
+  - first:
+      213: 3572959043623163831
+    second: ENEMIGO3-Death1
+  - first:
+      213: 7679881529325022825
+    second: ENEMIGO3-Death2
+  - first:
+      213: -3574903382399960235
+    second: ENEMIGO3-Death3
+  - first:
+      213: 3346638186412931257
+    second: ENEMIGO3-Death4
+  - first:
+      213: -6504725208732726847
+    second: ENEMIGO3-Death5
+  - first:
+      213: 4744454072306223868
+    second: ENEMIGO3-removebg-preview_15
+  - first:
+      213: 7271920205677088806
+    second: ENEMIGO3-removebg-preview_16
+  - first:
+      213: -3450310631169828303
+    second: ENEMIGO3-removebg-preview_17
+  - first:
+      213: -3214669268167228800
+    second: ENEMIGO3-removebg-preview_18
+  - first:
+      213: -2208415381148697308
+    second: ENEMIGO3-removebg-preview_19
+  - first:
+      213: 7831803793487504710
+    second: ENEMIGO3-removebg-preview_20
+  - first:
+      213: -1564829409031873071
+    second: ENEMIGO3-removebg-preview_21
+  - first:
+      213: -8276996396934065288
+    second: ENEMIGO3-removebg-preview_22
+  - first:
+      213: 4694299748281746855
+    second: ENEMIGO3-removebg-preview_23
+  - first:
+      213: -2164437650786760191
+    second: ENEMIGO3-Walk1
+  - first:
+      213: 1098115750673488784
+    second: ENEMIGO3-Walk2
+  - first:
+      213: 5282435914288856734
+    second: ENEMIGO3-Walk3
+  - first:
+      213: -2903531485623107253
+    second: ENEMIGO3-Walk4
+  - first:
+      213: -976019021567091059
+    second: ENEMIGO3-Walk5
+  - first:
+      213: 6179304294457681522
+    second: ENEMIGO3-Walk6
+  - first:
+      213: 5402156773433527296
+    second: ENEMIGO3-Walk7
+  - first:
+      213: -4673078653722402979
+    second: ENEMIGO3-Walk8
+  - first:
+      213: -6359629670074331817
+    second: ENEMIGO3-Walk9
+  - first:
+      213: 99327945594461445
+    second: ENEMIGO3-Walk10
+  - first:
+      213: -6183550858608981535
+    second: ENEMIGO3-Walk11
+  - first:
+      213: 6271890893350832086
+    second: ENEMIGO3-Walk12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 301
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a8fa3317f7afd0800000000000000
+      internalID: -2330622620175129266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 301
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8747c5845258150800000000000000
+      internalID: 5874142281693690067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 301
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8d998ae9e277a0800000000000000
+      internalID: -6380780528490148445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 301
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad2c1af62df889d0800000000000000
+      internalID: -2771687226799805015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 301
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b2f2e968deeef0800000000000000
+      internalID: -76886194327997194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 301
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d2907a479e3db0800000000000000
+      internalID: -4810241006013065175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 58
+        width: 347
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5066461e44a9450800000000000000
+      internalID: 6096260780442125805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Hurt1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 252
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd913988acfaf2670800000000000000
+      internalID: 8516218704790493663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Hurt2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 252
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c470dd592accc400800000000000000
+      internalID: 345873550417097926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Hurt3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 252
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b059976dc89320800000000000000
+      internalID: 2565025832625026952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Death1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 199
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79d20e153b59130800000000000000
+      internalID: 3572959043623163831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Death2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 199
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6088af8b649a60800000000000000
+      internalID: 7679881529325022825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Death3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 199
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b35b97054636ec0800000000000000
+      internalID: -3574903382399960235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Death4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 199
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b876e403b5a17e20800000000000000
+      internalID: 3346638186412931257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Death5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 198
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c905fbd2e29ab5a0800000000000000
+      internalID: -6504725208732726847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac7f077dfa7d140800000000000000
+      internalID: 4744454072306223868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 126
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205e5616ec0be460800000000000000
+      internalID: 7271920205677088806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 126
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a5e50f2c80e10d0800000000000000
+      internalID: -3450310631169828303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 126
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082078825533363d0800000000000000
+      internalID: -3214669268167228800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 126
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7f1a59e12a51e0800000000000000
+      internalID: -2208415381148697308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 74
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64521653e0820bc60800000000000000
+      internalID: 7831803793487504710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 74
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd129c71fb984ae0800000000000000
+      internalID: -1564829409031873071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739e8161a3322d80800000000000000
+      internalID: -8276996396934065288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 74
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a50a85efb0852140800000000000000
+      internalID: 4694299748281746855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acf5e9c6f56f1e0800000000000000
+      internalID: -2164437650786760191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9729057a4d3f00800000000000000
+      internalID: 1098115750673488784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef3fbf97bfe4940800000000000000
+      internalID: 5282435914288856734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 10
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c5455f7594b7d0800000000000000
+      internalID: -2903531485623107253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e187dfedb7472f0800000000000000
+      internalID: -976019021567091059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 10
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762236348c41c550800000000000000
+      internalID: 6179304294457681522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc97da6f058fa40800000000000000
+      internalID: 5402156773433527296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 10
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5a6539b3e52fb0800000000000000
+      internalID: -4673078653722402979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 10
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d4f24828e0eb7a0800000000000000
+      internalID: -6359629670074331817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5d618d32e06100800000000000000
+      internalID: 99327945594461445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 10
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cc06814d9f2aa0800000000000000
+      internalID: -6183550858608981535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEMIGO3-Walk12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 10
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70f20a98b3a0750800000000000000
+      internalID: 6271890893350832086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

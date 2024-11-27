@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 613da0eb412e1b94bb25dc3b3b5d6d83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2367900361900577858
+    second: TORRES-removebg-preview_0
+  - first:
+      213: -8115231705251595487
+    second: TORRES-removebg-preview_1
+  - first:
+      213: -6370717243203503035
+    second: TORRES-removebg-preview_2
+  - first:
+      213: 9044033695066928696
+    second: TORRES-removebg-preview_3
+  - first:
+      213: 2625939376815472126
+    second: TORRES-removebg-preview_4
+  - first:
+      213: -4553776590344613437
+    second: TORRES-removebg-preview_5
+  - first:
+      213: -4088211367794386626
+    second: TORRES-removebg-preview_6
+  - first:
+      213: -3975950383825473572
+    second: TOWER2
+  - first:
+      213: -5753977768586545352
+    second: TORRES-removebg-preview_8
+  - first:
+      213: -657336136450457188
+    second: TORRES-removebg-preview_9
+  - first:
+      213: 706647553600248471
+    second: TORRES-removebg-preview_10
+  - first:
+      213: 5851078643596057127
+    second: TORRES-removebg-preview_11
+  - first:
+      213: 9145883362275660473
+    second: TORRES-removebg-preview_12
+  - first:
+      213: 3680591608502795883
+    second: TORRES-removebg-preview_13
+  - first:
+      213: -7065180520629289904
+    second: TORRES-removebg-preview_14
+  - first:
+      213: -2909164541157954924
+    second: TORRES-removebg-preview_15
+  - first:
+      213: 3836985714853505196
+    second: TORRES-removebg-preview_16
+  - first:
+      213: 3601191461713277888
+    second: TORRES-removebg-preview_17
+  - first:
+      213: 8653606638357473541
+    second: TORRES-removebg-preview_18
+  - first:
+      213: -1537239870900388458
+    second: TORRES-removebg-preview_19
+  - first:
+      213: 593840638813158184
+    second: TORRES-removebg-preview_20
+  - first:
+      213: -3486823401141861220
+    second: TORRES-removebg-preview_21
+  - first:
+      213: 8243684766825798544
+    second: TORRES-removebg-preview_22
+  - first:
+      213: 1663126382653809588
+    second: Tower3
+  - first:
+      213: 6369811568109428360
+    second: TORRES-removebg-preview_24
+  - first:
+      213: 1908443440620669455
+    second: TORRES-removebg-preview_25
+  - first:
+      213: 405848132953851120
+    second: TORRES-removebg-preview_26
+  - first:
+      213: 9069694891990747049
+    second: TORRES-removebg-preview_27
+  - first:
+      213: 1430096838611684514
+    second: TORRES-removebg-preview_28
+  - first:
+      213: -4476506177307180646
+    second: TORRES-removebg-preview_29
+  - first:
+      213: -3882917915933464678
+    second: TORRES-removebg-preview_30
+  - first:
+      213: -6420351562250764609
+    second: TORRES-removebg-preview_31
+  - first:
+      213: 7089334102681612007
+    second: TORRES-removebg-preview_32
+  - first:
+      213: -2738505188217549268
+    second: TORRES-removebg-preview_33
+  - first:
+      213: 311740599473745302
+    second: TORRES-removebg-preview_34
+  - first:
+      213: 1732763688496171136
+    second: TORRES-removebg-preview_35
+  - first:
+      213: 2286724508817345448
+    second: TORRES-removebg-preview_36
+  - first:
+      213: -5896102410128781589
+    second: TORRES-removebg-preview_37
+  - first:
+      213: 366670201345212101
+    second: TORRES-removebg-preview_38
+  - first:
+      213: -8307230539037874055
+    second: TORRES-removebg-preview_39
+  - first:
+      213: -7069260390475707240
+    second: TORRES-removebg-preview_40
+  - first:
+      213: 2509940519173279599
+    second: TORRES-removebg-preview_41
+  - first:
+      213: -8748421951496442545
+    second: TORRES-removebg-preview_42
+  - first:
+      213: 3971703861062899573
+    second: TORRES-removebg-preview_43
+  - first:
+      213: -3063956338749331990
+    second: TORRES-removebg-preview_44
+  - first:
+      213: -3336065254952680377
+    second: TORRES-removebg-preview_45
+  - first:
+      213: -552769750990724305
+    second: TORRES-removebg-preview_46
+  - first:
+      213: 8756801529786889317
+    second: TORRE2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 123
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445a9e55d87cd020800000000000000
+      internalID: 2367900361900577858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 355
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bbd7aa2c7e06f80800000000000000
+      internalID: -8115231705251595487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c366abb6aa697a0800000000000000
+      internalID: -6370717243203503035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 355
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b0237abcd28d70800000000000000
+      internalID: 9044033695066928696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 342
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdfbcc43f5317420800000000000000
+      internalID: 2625939376815472126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 339
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1150a615cbdc0c0800000000000000
+      internalID: -4553776590344613437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 367
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d6e7db61c347c0800000000000000
+      internalID: -4088211367794386626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOWER2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 202
+        width: 101
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf218ff03692d8c0800000000000000
+      internalID: -3975950383825473572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 202
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83777e194b3c520b0800000000000000
+      internalID: -5753977768586545352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 202
+        width: 51
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c7d0444ca0e6f0800000000000000
+      internalID: -657336136450457188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 355
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79addbdb4348ec900800000000000000
+      internalID: 706647553600248471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ada68a605333150800000000000000
+      internalID: 5851078643596057127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 187
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b298950674bcee70800000000000000
+      internalID: 9145883362275660473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 187
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb71c3196141330800000000000000
+      internalID: 3680591608502795883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 187
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cb1e9dfbf63fd90800000000000000
+      internalID: -7065180520629289904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 187
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2e13634290a7d0800000000000000
+      internalID: -2909164541157954924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 187
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8671ead26bf3530800000000000000
+      internalID: 3836985714853505196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 188
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f693fd800af130800000000000000
+      internalID: 3601191461713277888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 187
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50962498369c71870800000000000000
+      internalID: 8653606638357473541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 187
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d3a686b70aaaae0800000000000000
+      internalID: -1537239870900388458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 187
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b36a92aeebd3800800000000000000
+      internalID: 593840638813158184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 187
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948b6437905c9fc0800000000000000
+      internalID: -3486823401141861220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 187
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b53f65e93776270800000000000000
+      internalID: 8243684766825798544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 122
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b329a622ac941710800000000000000
+      internalID: 1663126382653809588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 19
+        width: 101
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e165b5fdd166850800000000000000
+      internalID: 6369811568109428360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 120
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8e18a2372c7a10800000000000000
+      internalID: 1908443440620669455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f448750abcd1a500800000000000000
+      internalID: 405848132953851120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 108
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7884273770edd70800000000000000
+      internalID: 9069694891990747049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 19
+        width: 50
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2accbdb6f79b8d310800000000000000
+      internalID: 1430096838611684514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9183ca695140e1c0800000000000000
+      internalID: -4476506177307180646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 20
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9729c06aba1d1ac0800000000000000
+      internalID: -3882917915933464678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe3be6454456e6a0800000000000000
+      internalID: -6420351562250764609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee66643ecf526260800000000000000
+      internalID: 7089334102681612007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8ab06a00eef9d0800000000000000
+      internalID: -2738505188217549268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d23bd6c66835400800000000000000
+      internalID: 311740599473745302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888284e4630c0810800000000000000
+      internalID: 1732763688496171136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abcc3f33d31cbf10800000000000000
+      internalID: 2286724508817345448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee03fcc816dc2ea0800000000000000
+      internalID: -5896102410128781589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef6ecfa9ca61500800000000000000
+      internalID: 366670201345212101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ee5d96d9c6bc80800000000000000
+      internalID: -8307230539037874055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc4f02121f4ed90800000000000000
+      internalID: -7069260390475707240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fceac9a9915d220800000000000000
+      internalID: 2509940519173279599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d23d3169c579680800000000000000
+      internalID: -8748421951496442545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57793bf5e935e1730800000000000000
+      internalID: 3971703861062899573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52a8581f3aa75d0800000000000000
+      internalID: -3063956338749331990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744c50b635ae3b1d0800000000000000
+      internalID: -3336065254952680377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRES-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ed9517da2458f0800000000000000
+      internalID: -552769750990724305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TORRE2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 111
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647b878898668970800000000000000
+      internalID: 8756801529786889317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

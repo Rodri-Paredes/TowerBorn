@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 210f79641ac2b2e45a3b75fbc7984312
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2666760552712083387
+    second: Enemigo4-removebg-preview_0
+  - first:
+      213: 2140928432998006053
+    second: Enemigo4-removebg-preview_1
+  - first:
+      213: 5333816296578200441
+    second: Enemigo4-removebg-preview_2
+  - first:
+      213: 7509567762505037983
+    second: Enemigo4-removebg-preview_3
+  - first:
+      213: -2209193478737375771
+    second: Enemigo4-removebg-preview_4
+  - first:
+      213: -2964219262325183850
+    second: Enemigo4-removebg-preview_5
+  - first:
+      213: -6538313845423002662
+    second: Enemigo4-removebg-preview_6
+  - first:
+      213: -944449395276530743
+    second: Enemigo4-removebg-preview_7
+  - first:
+      213: 4965866363867506240
+    second: Enemigo4-removebg-preview_8
+  - first:
+      213: -4751551844158587270
+    second: Enemigo4-removebg-preview_9
+  - first:
+      213: 8927376319110719410
+    second: Enemigo4-removebg-preview_10
+  - first:
+      213: 2202758919529929959
+    second: Enemigo4-removebg-preview_11
+  - first:
+      213: -7289044905340310437
+    second: Enemigo4-removebg-preview_12
+  - first:
+      213: 7514401005736034265
+    second: Enemigo4-removebg-preview_13
+  - first:
+      213: -7292020540158260566
+    second: Enemigo4-removebg-preview_14
+  - first:
+      213: 1727381861114972913
+    second: Enemigo4-removebg-preview_15
+  - first:
+      213: -3615025027370306186
+    second: Enemigo4-removebg-preview_16
+  - first:
+      213: -26973330618362025
+    second: Enemigo4-removebg-preview_17
+  - first:
+      213: -8492009876758489242
+    second: Enemigo4-removebg-preview_18
+  - first:
+      213: -491042568685711949
+    second: Enemigo4-removebg-preview_19
+  - first:
+      213: -2800239126225322050
+    second: Enemigo4-removebg-preview_20
+  - first:
+      213: 6054631496119111810
+    second: Enemigo4-removebg-preview_21
+  - first:
+      213: -1145179556752828230
+    second: Enemigo4-removebg-preview_22
+  - first:
+      213: 1670550482135616919
+    second: Enemigo4-removebg-preview_23
+  - first:
+      213: 502583362058169899
+    second: Enemigo4_W1
+  - first:
+      213: -625936667349385721
+    second: Enemigo4_W2
+  - first:
+      213: 8682654386553967073
+    second: Enemigo4_W3
+  - first:
+      213: 1927978954583391417
+    second: Enemigo4_W4
+  - first:
+      213: 596323002275659971
+    second: Enemigo4_W5
+  - first:
+      213: -1253053139285234332
+    second: Enemigo4_W6
+  - first:
+      213: 6230368666307461103
+    second: Enemigo4_W7
+  - first:
+      213: 2919315798209000512
+    second: Enemigo4_W8
+  - first:
+      213: 5083562758604820348
+    second: Enemigo4_W9
+  - first:
+      213: -6496920816584280253
+    second: Enemigo4_W10
+  - first:
+      213: -1199526981996084090
+    second: Enemigo4_W11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 226
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79d65f79c320520800000000000000
+      internalID: 2666760552712083387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 226
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d3162111b16bd10800000000000000
+      internalID: 2140928432998006053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973bbb679a5850a40800000000000000
+      internalID: 5333816296578200441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 226
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9876d4b718573860800000000000000
+      internalID: 7509567762505037983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 68
+        width: 200
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edcfb36c3e5751e0800000000000000
+      internalID: -2209193478737375771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 163
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aacb8394afcd6d0800000000000000
+      internalID: -2964219262325183850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 163
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb2b85f23e3345a0800000000000000
+      internalID: -6538313845423002662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 163
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb5366744a4e2f0800000000000000
+      internalID: -944449395276530743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 163
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046226cc52d4ae440800000000000000
+      internalID: 4965866363867506240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 163
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e3315c5c81f0eb0800000000000000
+      internalID: -4751551844158587270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 163
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b724d4867964eb70800000000000000
+      internalID: 8927376319110719410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 163
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec976c0195c19e10800000000000000
+      internalID: 2202758919529929959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ce151174c18da90800000000000000
+      internalID: -7289044905340310437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffbb6d6e3884860800000000000000
+      internalID: 7514401005736034265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac30914f98dca90800000000000000
+      internalID: -7292020540158260566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa063f86a4e8f710800000000000000
+      internalID: 1727381861114972913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 132
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675327d04e9d4ddc0800000000000000
+      internalID: -3615025027370306186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757551216eb20aff0800000000000000
+      internalID: -26973330618362025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 131
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66793ba7202562a80800000000000000
+      internalID: -8492009876758489242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 74
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd84eba2677f29f0800000000000000
+      internalID: -491042568685711949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 74
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf703bd95d8329d0800000000000000
+      internalID: -2800239126225322050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805214544f560450800000000000000
+      internalID: 6054631496119111810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 74
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab855b3b2418b10f0800000000000000
+      internalID: -1145179556752828230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 74
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0d0300dcfe2710800000000000000
+      internalID: 1670550482135616919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eaf7da7e889f600800000000000000
+      internalID: 502583362058169899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7fbadae93057f0800000000000000
+      internalID: -625936667349385721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 11
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e15902792cfe7870800000000000000
+      internalID: 8682654386553967073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 11
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3f52f4ae81ca10800000000000000
+      internalID: 1927978954583391417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 11
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c009027c90964800800000000000000
+      internalID: 596323002275659971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 11
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d273c0fc24c9ee0800000000000000
+      internalID: -1253053139285234332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 11
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feffaf6ca47b67650800000000000000
+      internalID: 6230368666307461103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044fe63504e738820800000000000000
+      internalID: 2919315798209000512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 11
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8b0425617c8640800000000000000
+      internalID: 5083562758604820348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34737a180fc46d5a0800000000000000
+      internalID: -6496920816584280253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo4_W11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 11
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68480a3b09c6a5fe0800000000000000
+      internalID: -1199526981996084090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
